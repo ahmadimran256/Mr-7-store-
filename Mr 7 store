@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ur">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mr 7 Store</title>
+  <style>
+    body {
+      background-color: #fce4ec;
+      font-family: 'Arial', sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #d81b60;
+      font-size: 36px;
+    }
+    p {
+      color: #880e4f;
+      font-size: 20px;
+    }
+    .button {
+      margin-top: 20px;
+      padding: 10px 20px;
+      background-color: #d81b60;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Mr 7 Store میں خوش آمدید!</h1>
+  <p>ہماری دکان پر معیاری مصنوعات دستیاب ہیں۔</p>
+  <a href="#" class="button">ابھی دیکھیں</a>
+</body>
+</html>
