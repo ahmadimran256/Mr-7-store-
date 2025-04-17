@@ -4,7 +4,7 @@
   <div style="border: 1px solid #ccc; padding: 20px; width: 200px;">
     <img src="https://via.placeholder.com/150" alt="Product 1" style="width:100%;">
     <h3>پروڈکٹ 1</h3>
-    <p>قیمت: Rs. 500</p>
+    <p>قیمت: Rs. 1500</p>
     <a href="#" class="button">خریدیں</a>
   </div>
 
